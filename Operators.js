@@ -1,0 +1,9 @@
+//Arthmetic operators 
+// + - * / % 
+
+//compariosn 
+// ==  !=  ===  < , > , <= , >= 
+
+//[] , . 
+
+
